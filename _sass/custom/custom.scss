@@ -10,7 +10,7 @@ $ucd-gold-dark: #DC9B0E;
 // main content (width: calc((100% - content-width)/2 + nav-width)). On wide
 // windows that paints a lot of extra blue. Pin the sidebar to the nav width
 // and let the main content flow next to it instead of being centered.
-$ucd-nav-width: 200px;
+$ucd-nav-width: 240px;
 
 // Apply at both md (>=800px) and lg (>=1064px) breakpoints so the
 // override holds across the entire desktop range.
@@ -40,7 +40,7 @@ $ucd-nav-width: 200px;
   }
 
   .side-bar + .main .main-content {
-    max-width: 880px;
+    max-width: 900px;
   }
 }
 
@@ -54,9 +54,9 @@ $ucd-nav-width: 200px;
     color: #ffffff;
     background-color: $ucd-blue;
     font-weight: 700;
-    font-size: 1.05rem !important;
+    font-size: 1.2rem !important;
     line-height: 1.2;
-    padding: 0.6rem 0.85rem;
+    padding: 0.7rem 1rem;
     border-bottom: none;
   }
 
