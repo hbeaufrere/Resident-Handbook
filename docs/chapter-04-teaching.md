@@ -15,7 +15,7 @@ Numerous opportunities for formal teaching will occur, including didactic lectur
 
 You will instruct in laboratories given to 1<sup>st</sup> through 3<sup>rd</sup> year students. Opportunities for didactic lectures include: 1) Topic rounds for clinical students, 2) Elective courses VET436, VET437, 3) Student Exotics Clubs (AEMC and WAAM): 1 hour per resident per year (depending on schedule), or 4) Presentations give to local clubs (e.g. Rabbit House Society, Northern California Herpetological Society, etc.).
 
-Tentative schedule for resident teaching expectations:
+### Tentative schedule for resident teaching expectations:
 
 1.  <u>1<sup>st</sup> year</u>: Be able to present <u>all</u> the common clinical topic rounds, update & present 1-2 lectures in VET437 (4<sup>th</sup> year DVM – Avian/Reptile course), +/- national conference, +/- student club rounds. Residents will be assigned VET400 and 437 labs and direct self-learning sessions.
 

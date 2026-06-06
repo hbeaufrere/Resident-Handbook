@@ -5,7 +5,7 @@ nav_order: 9
 
 # Appendix III. Special Animal Policies
 
-**CEAMS DOES NOT SEE:**
+### CEAMS DOES NOT SEE:
 
 *<u>Most Adult Ratites</u>*
 
@@ -23,7 +23,7 @@ If you receive a primate call, please contact your faculty to discuss. In some c
 
 We do not see either canine or feline hybrids
 
-**CEAMS WILL SEE:**
+### CEAMS WILL SEE:
 
 *<u>Ferrets, hedgehogs, sugar gliders, small exotic cats and other species requiring permits</u>*
 

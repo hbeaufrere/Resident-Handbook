@@ -7,7 +7,7 @@ nav_order: 11
 
 **Dates are based on previous years and are only approximate**
 
-**Grant Preproposal Deadlines**
+### Grant Preproposal Deadlines
 
 Center for Companion Animal Health (CCAH): 10/31, 2/1, 5/1
 
@@ -21,7 +21,7 @@ Association of Exotic Mammal Veterinarians (AEMV): 3/1
 
 Morris Animal Foundation: 11/1
 
-**Call for Abstracts for Various Conferences:**
+### Call for Abstracts for Various Conferences:
 
 AAV-November
 
@@ -33,7 +33,7 @@ AEMV-November
 
 IAAAM
 
-**Eligible Competitions**
+### Eligible Competitions
 
 House Officers Seminar Day Best Presentation from Exotics, Lab Animal, Primate Center, Wildlife Health
 
@@ -49,7 +49,7 @@ AJVR/JAVMA Resident Manuscript Competition
 
 AAVC Annual Resident award
 
-**Recommended CE Opportunities**
+### Recommended CE Opportunities
 
 UC Davis Wildlife and Exotic Animal Symposium UC Davis. Usually free for house officers.
 

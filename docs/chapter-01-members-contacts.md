@@ -5,7 +5,7 @@ nav_order: 1
 
 # 1. Companion Exotic Animal Medicine Members and related contact information
 
-Faculty:
+### Faculty:
 
 David Sanchez-Migallon Guzman LV, MS, DACZM, DECZM (Avian, Small Mammal) – Chief of Service
 
@@ -17,7 +17,7 @@ Esteban Soto, DVM, PhD, DACVM, DABVP (Fish Practice), CertAqV - Aquatic Animal H
 
 Additional faculty, TBD
 
-House Officers:
+### House Officers:
 
 Adam Moreno, DVM (R3) 2024-2027
 
@@ -29,35 +29,35 @@ Michaela Mitchell, DVM (R1) 2026-2029
 
 Celia Vilar Esteban,DVM (Intern) 2026-2027
 
-Aquatic Animal Health Fellow:
+### Aquatic Animal Health Fellow:
 
 Hery Rios Guzman, DVM 2025-2026
 
 Brian Anton, DVM 2025-2027
 
-Registered Veterinary Technicians (RVTs) and other staff:
+### Registered Veterinary Technicians (RVTs) and other staff:
 
 Andrea Lynch, RVT
 
 Lauren Etter, RVT
 
-> Selena Mejia, RVT
->
-> Erin Johnston, RVT
->
-> Valerie Varcados, RVT
+Selena Mejia, RVT
+
+Erin Johnston, RVT
+
+Valerie Varcados, RVT
 
 Max Contreras, Vet Assistant
 
 Cristin Dietrich, Service Coordinator
 
-Zoo Service Member:
+### Zoo Service Member:
 
 Jenessa Gjeltema, DVM, DACZM Chief of Service - (Zoo Medicine Service)
 
 Shannon Nodolf, DVM, DACZM – Staff Veterinarian (Zoo Medicine Service)
 
-Zoo Medicine Residents:
+### Zoo Medicine Residents:
 
 Kyle Kansman (R3) 2024-2027
 

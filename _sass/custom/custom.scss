@@ -1,0 +1,200 @@
+// Additional UC Davis styling layered on top of just-the-docs.
+// just-the-docs auto-imports _sass/custom/custom.scss at the end of its CSS.
+
+$ucd-blue:      #022851;
+$ucd-gold:      #FFBF00;
+$ucd-gold-dark: #DC9B0E;
+
+// --- Top header: deep blue with gold underline -------------------------------
+.side-bar {
+  background-color: $ucd-blue;
+  border-right: 4px solid $ucd-gold;
+
+  .site-title,
+  .site-title:hover {
+    color: #ffffff;
+    background-color: $ucd-blue;
+    font-weight: 600;
+    border-bottom: none;
+  }
+
+  .site-header {
+    border-bottom: 2px solid $ucd-gold;
+    background-color: $ucd-blue;
+  }
+
+  .site-nav {
+    background-color: $ucd-blue;
+    padding-top: 1rem;
+  }
+
+  .nav-list .nav-list-item .nav-list-link {
+    color: #e6ecf3;
+    border-left: 3px solid transparent;
+    padding-left: 1rem;
+
+    &:hover {
+      background-color: rgba(255, 191, 0, 0.12);
+      color: #ffffff;
+      border-left-color: $ucd-gold;
+    }
+
+    &.active {
+      background-color: rgba(255, 191, 0, 0.18);
+      color: #ffffff;
+      font-weight: 600;
+      border-left-color: $ucd-gold;
+    }
+  }
+
+  .site-footer {
+    color: #b0c0d6;
+    background-color: $ucd-blue;
+    border-top: 1px solid rgba(255, 191, 0, 0.25);
+  }
+
+  // Aux links (Download EPUB / Download .docx) in the sidebar
+  .aux-nav .aux-nav-list-item .site-button {
+    color: $ucd-blue;
+    background-color: $ucd-gold;
+    border-radius: 3px;
+    padding: 4px 10px;
+    margin-left: 4px;
+    font-weight: 600;
+
+    &:hover {
+      background-color: $ucd-gold-dark;
+      color: #ffffff;
+    }
+  }
+}
+
+// --- Main content: gold left accent bar --------------------------------------
+.main {
+  background-color: #ffffff;
+}
+
+.main-content-wrap {
+  border-left: 5px solid $ucd-gold;
+}
+
+.main-content {
+  // Headings get a UC Davis blue treatment
+  h1 {
+    color: $ucd-blue;
+    border-bottom: 3px solid $ucd-gold;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1.5rem;
+  }
+
+  h2 {
+    color: $ucd-blue;
+    border-bottom: 1px solid #d4d8df;
+    padding-bottom: 0.3rem;
+    margin-top: 2rem;
+  }
+
+  h3 {
+    color: $ucd-blue;
+    font-weight: 600;
+    margin-top: 1.5rem;
+  }
+
+  a {
+    color: $ucd-blue;
+
+    &:hover {
+      color: $ucd-gold-dark;
+    }
+  }
+
+  // Tables: blue header row, light striping
+  table {
+    th {
+      background-color: $ucd-blue;
+      color: #ffffff;
+      font-weight: 600;
+    }
+
+    tbody tr:nth-child(even) {
+      background-color: #f4f6fa;
+    }
+
+    td, th {
+      border-color: #d4d8df;
+    }
+  }
+
+  // Blockquotes get a gold left bar
+  blockquote {
+    border-left: 4px solid $ucd-gold;
+    background-color: #fffbe6;
+    padding: 0.8rem 1rem;
+    margin: 1rem 0;
+    color: #444;
+  }
+
+  // Code styling
+  code {
+    background-color: #f4f6fa;
+    color: #b1283a;
+  }
+
+  // Buttons (used on the home page)
+  .btn-primary {
+    background-color: $ucd-blue;
+    border-color: $ucd-blue;
+    color: #ffffff;
+    background-image: none;
+
+    &:hover {
+      background-color: #014280;
+      border-color: #014280;
+      color: #ffffff;
+    }
+  }
+
+  .btn {
+    background-color: $ucd-gold;
+    color: $ucd-blue;
+    border: 1px solid $ucd-gold;
+    background-image: none;
+    font-weight: 600;
+
+    &:hover {
+      background-color: $ucd-gold-dark;
+      color: #ffffff;
+    }
+  }
+
+  // Override the home page's primary-style EPUB button to use UC Davis blue
+  .btn-primary,
+  a.btn-primary {
+    background-color: $ucd-blue;
+    color: #ffffff;
+    border-color: $ucd-blue;
+
+    &:hover {
+      background-color: #014280;
+      border-color: #014280;
+      color: #ffffff;
+    }
+  }
+}
+
+// --- Search bar tweaks -------------------------------------------------------
+.search-input {
+  border-color: $ucd-blue;
+}
+
+.search-input:focus {
+  outline-color: $ucd-gold;
+  box-shadow: 0 0 0 2px rgba(255, 191, 0, 0.5);
+}
+
+// --- Cover (home page) -------------------------------------------------------
+.main-content h1.fs-9 {
+  border-bottom: 4px solid $ucd-gold;
+  padding-bottom: 1rem;
+  font-weight: 700;
+}

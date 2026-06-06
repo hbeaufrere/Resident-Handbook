@@ -1,0 +1,28 @@
+// UC Davis color scheme for just-the-docs
+// Primary brand colors (https://marketingtoolbox.ucdavis.edu/identity/color)
+
+$ucd-blue:      #022851; // UC Davis Blue (primary)
+$ucd-gold:      #FFBF00; // UC Davis Gold (primary)
+$ucd-aggie:     #00549F; // Aggie Blue (supporting)
+$ucd-gold-dark: #DC9B0E; // Gold dark (supporting)
+$ucd-blue-soft: #B0D0ED; // Light blue (background tint)
+$ucd-gold-tint: #FFF2CC; // Gold tint (callouts / hover)
+
+// just-the-docs variable overrides
+$body-background-color:     #ffffff;
+$body-text-color:           #1a1a1a;
+$body-heading-color:        $ucd-blue;
+$link-color:                $ucd-blue;
+$btn-primary-color:         $ucd-blue;
+$base-button-color:         #ebf0f6;
+
+$sidebar-color:             #f4f6fa;
+$search-background-color:   #ffffff;
+$table-background-color:    #ffffff;
+
+$nav-child-link-color:      $ucd-blue;
+$feedback-color:            #eef2f8;
+
+$border-color:              #d4d8df;
+
+$code-background-color:     #f4f6fa;

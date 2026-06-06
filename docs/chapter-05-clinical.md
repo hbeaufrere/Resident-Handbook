@@ -77,11 +77,11 @@ During the occasional 1 faculty, 1-2 house officer week (conferences, holidays, 
 
 ## 5.5 Phones
 
-> 1\. The numbers for rDVMs to call the VMTH are 530-384-8234 or 530-752-4050. The number for clients to call is 530-752-1393.
->
-> 2\. The phones in the house officer/faculty office and the technician area are for outgoing calls to clients, referring veterinarians, etc. **<u>Please</u>** do not give out the telephone numbers in these areas to clients, referring vets, etc.
->
-> 3\. Telephone-Line Blocking
+1\. The numbers for rDVMs to call the VMTH are 530-384-8234 or 530-752-4050. The number for clients to call is 530-752-1393.
+
+2\. The phones in the house officer/faculty office and the technician area are for outgoing calls to clients, referring veterinarians, etc. **<u>Please</u>** do not give out the telephone numbers in these areas to clients, referring vets, etc.
+
+3\. Telephone-Line Blocking
 
 1.  **All UC Davis land lines utilize line blocking feature.** **Use \*67 before the number to block your number on cell phones.**
 
@@ -109,7 +109,7 @@ During the occasional 1 faculty, 1-2 house officer week (conferences, holidays, 
 
 5.  Plans and Instinct Orders for cases to be managed over a weekend by another resident are prepared (including Saturday, Sunday and Monday) by **Friday** afternoon/evening. In addition, individuals responsible for client communication (weekend resident on-call or student) should be identified and made aware of their responsibilities. This is an important aspect of teamwork and will make for smooth transitions of cases and decrease the workload on the resident on call.
 
-> **CEAMS Inpatients housed in the CEAMS ward**
+### CEAMS Inpatients housed in the CEAMS ward
 
 1.  For patients hospitalized in the CEAMS wards that require ward technicians to evaluate them or provide treatments after hours, orders can be no more frequent than q4 hours. Ward technicians will only check on patients that have a formal Instinct order for a patient observation listed (they will not perform general check-ins that are not formally ordered).
 
@@ -117,7 +117,7 @@ During the occasional 1 faculty, 1-2 house officer week (conferences, holidays, 
 
 3.  CPR status must be listed in Instinct for all patients admitted to the hospital.
 
-> **ICU or ICW admission of CEAMS patients**
+### ICU or ICW admission of CEAMS patients
 
 4.  **Communication:** Notify the relevant patient care team (ICU/ICW) as early as possible that you have a patient you would like to admit, ideally before 5:00 PM. Initial notification can be made by a technician, student, or clinician before bringing a patient up, and should include the cage size required (or whether a cage in the care unit will be used). The CEAMS clinician must directly communicate with the patient care team before or at the time of admission to ensure complete understanding of the care required.
 
@@ -135,15 +135,15 @@ During the occasional 1 faculty, 1-2 house officer week (conferences, holidays, 
 
 ## 5.7 Controlled Drugs
 
-> By law, the drug has to be labeled with an Outpatient label with directions for use, etc.
->
-> 1\. **House officers must have their own DEA license.** UC Davis clinicians are eligible for a free license that is valid for university activities only. See below for details on how to acquire**:** <https://secure.vetmed.ucdavis.edu/Hospital/PDF/How%20to%20Acquire%20a%20DEA%20License%20Number.pdf>
->
-> 2\. Controlled Substance prescriptions cannot be done through VMACs on our Clinician Order Entry System (requires a DEA approved firewall system which we do not have). **Prescriptions must be written on the DEA Controlled Substance pads and signed by the Clinician.**
->
-> 3\. Regular pharmacy hours (day staff) are 7:30AM-6PM M-F and 9AM-12PM Sat (none on Sunday). After-hours night/weekend pharmacy staff are not able fill any controlled substances. They can hand out already labeled prescriptions (already filled by Day Staff).
->
-> 4\. You can also write a prescription on a DEA Controlled Substance pad to be filled by an outside Pharmacy for clients.
+By law, the drug has to be labeled with an Outpatient label with directions for use, etc.
+
+1\. **House officers must have their own DEA license.** UC Davis clinicians are eligible for a free license that is valid for university activities only. See below for details on how to acquire**:** <https://secure.vetmed.ucdavis.edu/Hospital/PDF/How%20to%20Acquire%20a%20DEA%20License%20Number.pdf>
+
+2\. Controlled Substance prescriptions cannot be done through VMACs on our Clinician Order Entry System (requires a DEA approved firewall system which we do not have). **Prescriptions must be written on the DEA Controlled Substance pads and signed by the Clinician.**
+
+3\. Regular pharmacy hours (day staff) are 7:30AM-6PM M-F and 9AM-12PM Sat (none on Sunday). After-hours night/weekend pharmacy staff are not able fill any controlled substances. They can hand out already labeled prescriptions (already filled by Day Staff).
+
+4\. You can also write a prescription on a DEA Controlled Substance pad to be filled by an outside Pharmacy for clients.
 
 ## 5.8 Daily Organization/Scheduling Responsibilities
 
@@ -175,7 +175,7 @@ This is a teaching/research facility and we are always looking for samples. To k
 
 ## 5.11 Rounds
 
-> 1\. **House officer/Faculty clinical rounds** are daily from 8:00 to 9:00 AM unless precluded by journal club or pathology rounds. The start of the morning rounds may be adjusted based on faculty availability and other commitments.
+1\. **House officer/Faculty clinical rounds** are daily from 8:00 to 9:00 AM unless precluded by journal club or pathology rounds. The start of the morning rounds may be adjusted based on faculty availability and other commitments.
 
 1.  In most cases, house officers should expect to present the entire case prior to faculty inquiry/input, except when further details or clarification is needed.
 
@@ -201,9 +201,9 @@ This is a teaching/research facility and we are always looking for samples. To k
 
 2\. **Student/House officer/Faculty rounds** are Mon-Thurs from 9:00 to 10:00 AM. Friday student rounds at led by technicians from 9-10AM (cadaver practice, technical tips).
 
-> a\. Rounds assignments for the week should be determined among faculty and residents before or during resident rounds on Monday morning. In general, each clinician should lead at least one session per week when on clinics. **House officers will present student rounds on Thursdays because the faculty have their weekly meeting.**
->
-> b\. **House officers are excused from student rounds during their 2<sup>nd</sup> and 3<sup>rd</sup> years based on faculty discretion if they are not teaching rounds that morning.** It should not be an expectation of the resident to skip student rounds. House officers can be excused to see recheck appointments, make client phone calls, or update medical records during the rounds time if they have demonstrated excellent skills in teaching students in these categories to the satisfaction of the faculty:
+a\. Rounds assignments for the week should be determined among faculty and residents before or during resident rounds on Monday morning. In general, each clinician should lead at least one session per week when on clinics. **House officers will present student rounds on Thursdays because the faculty have their weekly meeting.**
+
+b\. **House officers are excused from student rounds during their 2<sup>nd</sup> and 3<sup>rd</sup> years based on faculty discretion if they are not teaching rounds that morning.** It should not be an expectation of the resident to skip student rounds. House officers can be excused to see recheck appointments, make client phone calls, or update medical records during the rounds time if they have demonstrated excellent skills in teaching students in these categories to the satisfaction of the faculty:
 
 1.  Presentation and management of cases
 
@@ -215,7 +215,7 @@ This is a teaching/research facility and we are always looking for samples. To k
 
 5.  Basic radiology
 
-> c\. Case rounds should be guided based on patient signalment, chief presenting complaints, diagnostic procedures, problem list, differential diagnoses and plans. Cases can be helpful to discuss larger topics (e.g. radiology, hematology, etc.) and assess student understanding of their cases.
+c\. Case rounds should be guided based on patient signalment, chief presenting complaints, diagnostic procedures, problem list, differential diagnoses and plans. Cases can be helpful to discuss larger topics (e.g. radiology, hematology, etc.) and assess student understanding of their cases.
 
 3.  If there are minimal cases in the hospital, rounds should be case-based oriented when possible (disease processes, radiographs, clinical pathology, etc).
 
@@ -227,23 +227,23 @@ This is a teaching/research facility and we are always looking for samples. To k
 
 4.  A set of articles is available for students to read before and during the rotation on the CANVAS website. Student/Resident/Faculty rounds are generally conducted in-person.
 
-> 3\. **Pathology rounds** the first and third Thursdays of each month between 8-9 AM in the Pathology Conference Room (also available on ZOOM) from September to May. The clinician in charge of a particular case is responsible for presenting the case in pathology rounds via a short 3–5-minute PowerPoint. If the clinician is not available, another clinician will be assigned to present the case. This presentation should include presenting complaint, history, physical, diagnostic results (e.g. radiographs, labwork, etc.), any useful photos, and treatments. This should be brief (3-5 slides maximum). It is also the duty of clinicains to send case numbers that would be appropriate for ZEW path rounds to the path resident in charge of the rounds. Meeting location or Zoom IDs will be provided by the pathology team.
->
-> 4\. **Micke Grove Zoo and AAH planning rounds** are held every Tuesday from 9-10 with the faculty, house officer and technician on receiving 1 that week. The purpose of these rounds are to ensure all members of the clinical team know what animals and procedures will be performed during the ambulatory visits and that all clinical supplies needed are discussed so they are brought.
->
-> 5\. **CEAMS-AAH Journal club** is held every Tuesday from 7:45-9 AM and all residents are expected to attend, except when participating in an off-site rotation, research project, or vacation. In person-attendance is expected for all those on-site; these are also shared via Zoom (currently set up through the VME 435R CANVAS website)*.*
->
-> 6.**House officer-directed “White Board” rounds** are at 10AM Monday-Friday in the service treatment room. The goal of these rounds is to briefly describe the plan for the day to the entire team (faculty, house officers, technicians, students).
->
-> 7.**Zoological Medicine Journal club** alternates monthly between Tuesdays and Thursdays at 1:00 PM. This journal club is conducted via Zoom and residents on professional development are <u>required to attend</u> and present at least 1 topic/year. Residents on clinics that are not engaged in clinical activities should strive to log on for learning. Reviewing the recorded Zoom meetings should be a priority during PD weeks.
->
-> 8\. **Micke Grove Zoo/CA Raptor Center Rounds** are held on Fridays from 9-10 AM. House officers on these cases that week are expected to be prepared to present all cases, including pertinent radiological and clinical pathological data for the case. Other house officers and faculty will discuss the case and management to ensure that others rotating on to this service are kept abreast of new changes in cases at these outside institutions.
->
-> 9\. **Student “White Board” Rounds** are held daily at approximately 4:15-4:30 PM. This is the students’ chance to briefly discuss cases seen or in hospital for the day, learn from fellow student cases, and follow-up with any pertinent questions or tasks regarding the cases. We often ask “what was the most interesting thing you learned from this case?”
->
-> 10\. **Aquatic animal health rounds** are once a month from 8-9am on a Friday and the topics are scheduled in advance with Dr. Soto.
->
-> 11\. **Weekend transfer rounds** take place at 4:30 PM after student white board rounds on Fridays. All attempts should be made to have transferring and receiving faculty, residents and students available for these rounds.
+3\. **Pathology rounds** the first and third Thursdays of each month between 8-9 AM in the Pathology Conference Room (also available on ZOOM) from September to May. The clinician in charge of a particular case is responsible for presenting the case in pathology rounds via a short 3–5-minute PowerPoint. If the clinician is not available, another clinician will be assigned to present the case. This presentation should include presenting complaint, history, physical, diagnostic results (e.g. radiographs, labwork, etc.), any useful photos, and treatments. This should be brief (3-5 slides maximum). It is also the duty of clinicains to send case numbers that would be appropriate for ZEW path rounds to the path resident in charge of the rounds. Meeting location or Zoom IDs will be provided by the pathology team.
+
+4\. **Micke Grove Zoo and AAH planning rounds** are held every Tuesday from 9-10 with the faculty, house officer and technician on receiving 1 that week. The purpose of these rounds are to ensure all members of the clinical team know what animals and procedures will be performed during the ambulatory visits and that all clinical supplies needed are discussed so they are brought.
+
+5\. **CEAMS-AAH Journal club** is held every Tuesday from 7:45-9 AM and all residents are expected to attend, except when participating in an off-site rotation, research project, or vacation. In person-attendance is expected for all those on-site; these are also shared via Zoom (currently set up through the VME 435R CANVAS website)*.*
+
+6.**House officer-directed “White Board” rounds** are at 10AM Monday-Friday in the service treatment room. The goal of these rounds is to briefly describe the plan for the day to the entire team (faculty, house officers, technicians, students).
+
+7.**Zoological Medicine Journal club** alternates monthly between Tuesdays and Thursdays at 1:00 PM. This journal club is conducted via Zoom and residents on professional development are <u>required to attend</u> and present at least 1 topic/year. Residents on clinics that are not engaged in clinical activities should strive to log on for learning. Reviewing the recorded Zoom meetings should be a priority during PD weeks.
+
+8\. **Micke Grove Zoo/CA Raptor Center Rounds** are held on Fridays from 9-10 AM. House officers on these cases that week are expected to be prepared to present all cases, including pertinent radiological and clinical pathological data for the case. Other house officers and faculty will discuss the case and management to ensure that others rotating on to this service are kept abreast of new changes in cases at these outside institutions.
+
+9\. **Student “White Board” Rounds** are held daily at approximately 4:15-4:30 PM. This is the students’ chance to briefly discuss cases seen or in hospital for the day, learn from fellow student cases, and follow-up with any pertinent questions or tasks regarding the cases. We often ask “what was the most interesting thing you learned from this case?”
+
+10\. **Aquatic animal health rounds** are once a month from 8-9am on a Friday and the topics are scheduled in advance with Dr. Soto.
+
+11\. **Weekend transfer rounds** take place at 4:30 PM after student white board rounds on Fridays. All attempts should be made to have transferring and receiving faculty, residents and students available for these rounds.
 
 ## 5.12 Service Meetings
 
@@ -280,7 +280,7 @@ Wildlife Emergencies: The house officer on call is required to come in when eagl
 | Keller      | 404-345-5694    |
 | Soto        | 530 9790 866    |
 
-> If you are unable to reach the faculty on-call within 15 minutes for an emergent need, it is okay to call another faculty and try first faculty on clinics this week.
+If you are unable to reach the faculty on-call within 15 minutes for an emergent need, it is okay to call another faculty and try first faculty on clinics this week.
 
 8.  **On call compensation.** You are entitled to be paid \$45 per emergency seen out-of-hours. Please follow the House Officer On-Call Fee Policy. Make sure the on-call fee is entered to the invoice before the patient is discharged from the hospital.
 
@@ -402,7 +402,7 @@ If CEAMS fish patients die and are submitted for necropsy, the default should be
 
     1.  Planning rounds with faculty, resident, and technician 9-10 on Tuesday mornings
 
-> Goals of meeting are:
+### Goals of meeting are:
 
 1.  Assess if the caseload would benefit from having a technician come for the visit or if faculty/resident team only is best use of our service personnel resources.
 

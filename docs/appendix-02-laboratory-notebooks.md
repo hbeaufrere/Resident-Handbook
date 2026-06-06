@@ -5,7 +5,7 @@ nav_order: 8
 
 # Appendix II. Policy and Procedures Related to Completion of Laboratory Notebooks
 
-**I. Purpose**
+### I. Purpose
 
 The purpose of this document is to provide guidance on the use and maintenance of laboratory notebooks for laboratory activities. For the purpose of this document, “laboratory notebook” is a bound collection of serially numbered pages used to record the planning and progress of scientific investigation. Adherence to the policy and procedures will ensure that ideas and experimental information are maintained accurately and consistently, adequately support patents rights, provide witness corroboration, and prevent loss or theft of the same.
 
@@ -63,31 +63,31 @@ Any information that is affixed into the notebook, such as product inserts or pr
 
 For each new invention the following sections, listed as subheadings, should be clearly present:
 
-> **<u>Title of Invention:</u>** Use concise language to clearly describe the idea.
+**<u>Title of Invention:</u>** Use concise language to clearly describe the idea.
 
 **<u>Concept:</u>** Record in precise language the idea being presented in the invention. Describe a problem that can be alleviated through the use of this invention or why current methods are inadequate. Describe what is novel about the invention and provide broad statements of the invention.
 
 **<u>Reduction to Practice:</u>** Describe how the idea could be implemented, using sketches, photographs or data where appropriate. The specific, preferred practice of the invention should be set forth as well as alternative approaches.
 
-> **<u>Inventor(s):</u>** Name all employees who creatively contributed to the invention.
+**<u>Inventor(s):</u>** Name all employees who creatively contributed to the invention.
 
 **<u>Date First Articulated:</u>** Provide the date that the idea was first described and obtain signatures of all inventors. In addition, two individuals capable of understanding the technology should review, sign, and date the written disclosure as witnesses.
 
 The following are general guidelines for documenting work in the Laboratory Notebook.
 
-> All entries in the Laboratory Notebook should be completed in permanent ink. **Do not use pencil.**
->
-> Experiments should be recorded in chronological order.
->
-> <u>Errors should be crossed through with a single line and initialed and dated.</u> If the error is more than a few words, an explanation for the error should be noted in the margin where the error is corrected.
->
-> The Laboratory Notebook should be available in the lab while conducting a study or research. Don’t rely on memory.
->
-> All numerical data should be captured directly in the notebook. Data from instruments that are interfaced to computers should be printed electronically and the printout affixed in the notebook. Data manually captured should be entered into a pre-configured, printed template whenever possible. For purposes of analyzing the data the numbers can be entered into a spreadsheet but the original data **must** be affixed in the notebook. **Do not transcribe** the data into a notebook; rather affix the original document.
->
-> All essential facts should be recorded. Abbreviations and codes should be chosen and used in an unambiguous and consistent way. Non-standard abbreviations and codes should be defined in the Laboratory Notebook before using same.
->
-> In general, only one subject should be recorded on each page. Long Term projects should have separate books. All projects and experiments should be recorded in such a manner that any co-worker may continue the operation in the Scientist’s absence or reassignment.A single diagonal line should be drawn across any unused portion of a page and it should be initialed and dated to forestall any challenge that the record has been augmented at a later date.
+All entries in the Laboratory Notebook should be completed in permanent ink. **Do not use pencil.**
+
+Experiments should be recorded in chronological order.
+
+<u>Errors should be crossed through with a single line and initialed and dated.</u> If the error is more than a few words, an explanation for the error should be noted in the margin where the error is corrected.
+
+The Laboratory Notebook should be available in the lab while conducting a study or research. Don’t rely on memory.
+
+All numerical data should be captured directly in the notebook. Data from instruments that are interfaced to computers should be printed electronically and the printout affixed in the notebook. Data manually captured should be entered into a pre-configured, printed template whenever possible. For purposes of analyzing the data the numbers can be entered into a spreadsheet but the original data **must** be affixed in the notebook. **Do not transcribe** the data into a notebook; rather affix the original document.
+
+All essential facts should be recorded. Abbreviations and codes should be chosen and used in an unambiguous and consistent way. Non-standard abbreviations and codes should be defined in the Laboratory Notebook before using same.
+
+In general, only one subject should be recorded on each page. Long Term projects should have separate books. All projects and experiments should be recorded in such a manner that any co-worker may continue the operation in the Scientist’s absence or reassignment.A single diagonal line should be drawn across any unused portion of a page and it should be initialed and dated to forestall any challenge that the record has been augmented at a later date.
 
 **C. Witness Corroboration:**
 
@@ -101,13 +101,13 @@ New ideas, plans, procedures, sketches, etc. should be recorded immediately in t
 
 When an experiment shows results of possible patentable importance, and no witnesses are present, the procedure should be repeated under supervision by co-workers as soon as possible. Data covering the experiment should be recorded in both the Scientist’s and the co-worker’s Laboratory Notebook with proper signatures and dates.
 
-**IV. Procedures for Securing Laboratory Notebooks**
+### IV. Procedures for Securing Laboratory Notebooks
 
 **A.** Control the location of and access to the Laboratory Notebook.
 
 **B. All Employees, Consultants and Students acknowledge that the Laboratory Notebooks and all information recorded therein are the exclusive property of University of California, Davis. All Employees, Consultants and Students further acknowledge that all contents of the Laboratory Notebooks are to be held strictly confidential and <u>must be</u> turned in upon completion, upon request or upon termination for whatever reason. The person who has custody of a Laboratory Notebook must take every precaution to safeguard it against loss, damage or destruction. In case of fire, theft, damage or disappearance of a Laboratory Notebook, the Employee, Consultant or Student will immediately notify the Office Administrator, or in the case that the Office Administrator has such knowledge, his or her Supervisor. A written report describing the circumstances of the loss, damage or destruction should follow.**
 
-**READ AND UNDERSTOOD BY:**
+### READ AND UNDERSTOOD BY:
 
 **Name of Employee**
 
