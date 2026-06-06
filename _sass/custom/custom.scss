@@ -12,10 +12,13 @@ $ucd-gold-dark: #DC9B0E;
 // and let the main content flow next to it instead of being centered.
 $ucd-nav-width: 200px;
 
-@media (min-width: 66.5rem) {
+// Apply at both md (>=800px) and lg (>=1064px) breakpoints so the
+// override holds across the entire desktop range.
+@media (min-width: 50rem) {
   .side-bar {
     width: $ucd-nav-width !important;
     min-width: $ucd-nav-width !important;
+    max-width: $ucd-nav-width !important;
     align-items: stretch !important;
   }
 

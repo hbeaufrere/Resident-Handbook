@@ -118,7 +118,7 @@ def write_md(path: Path, front: dict, body: str):
 
 chapters = [
     {"file": "chapter-01-members-contacts.md", "title": "1. Members & Contacts",
-     "h1": "1. Companion Exotic Animal Medicine Members and related contact information",
+     "h1": "1. Companion Exotic Animal Medicine Members",
      "nav_order": 1, "start": 85, "end": 147, "split": False},
     {"file": "chapter-02-mentorship.md", "title": "2. House Officer Mentorship",
      "h1": "2. House Officer Mentorship", "nav_order": 2, "start": 147, "end": 153,

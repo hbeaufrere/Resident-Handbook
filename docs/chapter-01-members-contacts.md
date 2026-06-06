@@ -3,7 +3,7 @@ title: "1. Members & Contacts"
 nav_order: 1
 ---
 
-# 1. Companion Exotic Animal Medicine Members and related contact information
+# 1. Companion Exotic Animal Medicine Members
 
 ### Faculty:
 
