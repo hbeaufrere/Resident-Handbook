@@ -53,13 +53,21 @@ $ucd-nav-width: 200px;
   .site-title:hover {
     color: #ffffff;
     background-color: $ucd-blue;
-    font-weight: 600;
+    font-weight: 700;
+    font-size: 1.05rem !important;
+    line-height: 1.2;
+    padding: 0.6rem 0.85rem;
     border-bottom: none;
   }
 
+  // The default header height (3.75rem) clips a 2-line title.
+  // Let it grow to the title's natural height.
   .site-header {
     border-bottom: 2px solid $ucd-gold;
     background-color: $ucd-blue;
+    height: auto !important;
+    max-height: none !important;
+    min-height: 3.25rem;
   }
 
   .site-nav {
