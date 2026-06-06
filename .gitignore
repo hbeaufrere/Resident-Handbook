@@ -1,0 +1,21 @@
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
+
+# Ruby
+Gemfile.lock
+
+# Editor / OS
+.DS_Store
+.vscode/
+.idea/
+
+# Working files
+.tmp/
+
+# Downloads — regenerated on each CI build by script/build_downloads.sh
+assets/downloads/
