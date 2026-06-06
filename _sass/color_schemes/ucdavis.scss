@@ -8,6 +8,11 @@ $ucd-gold-dark: #DC9B0E; // Gold dark (supporting)
 $ucd-blue-soft: #B0D0ED; // Light blue (background tint)
 $ucd-gold-tint: #FFF2CC; // Gold tint (callouts / hover)
 
+// Narrower sidebar (default is 264px / 248px)
+$nav-width:                 220px;
+$nav-width-md:              210px;
+$content-width:             860px;
+
 // just-the-docs variable overrides
 $body-background-color:     #ffffff;
 $body-text-color:           #1a1a1a;

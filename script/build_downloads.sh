@@ -22,28 +22,43 @@ fi
 TMP_MD="$(mktemp)"
 trap 'rm -f "$TMP_MD"' EXIT
 
+# Enumerate chapter and appendix pages in reading order. For chapters that
+# were split into per-subsection child pages (chapters 3 and 5), pull each
+# child file in numeric order *instead of* the parent stub.
+list_pages() {
+  for stem in \
+    chapter-01-members-contacts \
+    chapter-02-mentorship \
+    chapter-03-research \
+    chapter-04-teaching \
+    chapter-05-clinical \
+    chapter-06-professional-development \
+    appendix-01-case-transfer-list \
+    appendix-02-laboratory-notebooks \
+    appendix-03-special-animal-policies \
+    appendix-04-zoo-emergency \
+    appendix-05-dates-to-know
+  do
+    if [[ -d "docs/$stem" ]]; then
+      # split chapter: include parent then children sorted by filename
+      echo "docs/$stem.md"
+      find "docs/$stem" -name "*.md" | LC_ALL=C sort
+    else
+      echo "docs/$stem.md"
+    fi
+  done
+}
+
 {
   echo "% House Officer Handbook"
   echo "% Companion Exotic Animal Medicine and Surgery Service, UC Davis"
   echo "% Updated 05/2026"
   echo
-  for f in \
-    docs/chapter-01-members-contacts.md \
-    docs/chapter-02-mentorship.md \
-    docs/chapter-03-research.md \
-    docs/chapter-04-teaching.md \
-    docs/chapter-05-clinical.md \
-    docs/chapter-06-professional-development.md \
-    docs/appendix-01-case-transfer-list.md \
-    docs/appendix-02-laboratory-notebooks.md \
-    docs/appendix-03-special-animal-policies.md \
-    docs/appendix-04-zoo-emergency.md \
-    docs/appendix-05-dates-to-know.md
-  do
+  while IFS= read -r f; do
     # Strip the leading YAML front matter, keep the body
     awk 'BEGIN{fm=0} /^---$/{fm++; next} fm>=2{print}' "$f"
     echo
-  done
+  done < <(list_pages)
 } > "$TMP_MD"
 
 # Build EPUB
