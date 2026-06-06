@@ -5,6 +5,42 @@ $ucd-blue:      #022851;
 $ucd-gold:      #FFBF00;
 $ucd-gold-dark: #DC9B0E;
 
+// --- Sidebar: anchor to left edge instead of stretching ----------------------
+// just-the-docs' default makes the sidebar fill the space left of the centered
+// main content (width: calc((100% - content-width)/2 + nav-width)). On wide
+// windows that paints a lot of extra blue. Pin the sidebar to the nav width
+// and let the main content flow next to it instead of being centered.
+$ucd-nav-width: 200px;
+
+@media (min-width: 66.5rem) {
+  .side-bar {
+    width: $ucd-nav-width !important;
+    min-width: $ucd-nav-width !important;
+    align-items: stretch !important;
+  }
+
+  .side-bar .site-header,
+  .side-bar .main-nav,
+  .side-bar .site-footer {
+    width: 100% !important;
+  }
+
+  .side-bar + .main {
+    margin-left: $ucd-nav-width !important;
+    max-width: none !important;
+  }
+
+  .side-bar + .main .main-header,
+  .side-bar + .main #main-content-wrap,
+  .side-bar + .main .main-content-wrap {
+    max-width: none !important;
+  }
+
+  .side-bar + .main .main-content {
+    max-width: 880px;
+  }
+}
+
 // --- Top header: deep blue with gold underline -------------------------------
 .side-bar {
   background-color: $ucd-blue;
