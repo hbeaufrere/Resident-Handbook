@@ -6,9 +6,14 @@ on:
       - main
       - claude/lucid-einstein-Uz7KI
   workflow_dispatch:
+    inputs:
+      regenerate_from_source:
+        description: "Regenerate docs/ from source/*.docx before building"
+        type: boolean
+        default: false
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -22,6 +27,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
@@ -31,6 +38,45 @@ jobs:
 
       - name: Install pandoc
         run: sudo apt-get update && sudo apt-get install -y pandoc
+
+      - name: Detect new source .docx in this push
+        id: docx
+        run: |
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" && "${{ inputs.regenerate_from_source }}" == "true" ]]; then
+            echo "regenerate=true" >> "$GITHUB_OUTPUT"
+            echo "Reason: workflow_dispatch with regenerate_from_source=true"
+          elif git rev-parse HEAD~1 >/dev/null 2>&1 && git diff --name-only HEAD~1 HEAD | grep -qE '^source/.*\.docx$'; then
+            echo "regenerate=true" >> "$GITHUB_OUTPUT"
+            echo "Reason: source/*.docx changed in this push"
+          else
+            echo "regenerate=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Regenerate chapter pages from source .docx
+        if: steps.docx.outputs.regenerate == 'true'
+        run: |
+          mkdir -p .tmp
+          DOCX=$(ls source/*.docx 2>/dev/null | head -1)
+          if [[ -z "$DOCX" ]]; then
+            echo "No .docx in source/, skipping regenerate" >&2
+            exit 0
+          fi
+          echo "Converting $DOCX -> .tmp/handbook.md"
+          pandoc "$DOCX" -t gfm --wrap=preserve -o .tmp/handbook.md --extract-media=.tmp/media
+          python3 script/build_chapters.py
+
+      - name: Commit regenerated docs/ back to the branch
+        if: steps.docx.outputs.regenerate == 'true'
+        run: |
+          if git status --porcelain docs/ | grep -q .; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add docs/
+            git commit -m "Regenerate chapter pages from source .docx [skip ci]"
+            git push
+          else
+            echo "No changes in docs/ after regeneration"
+          fi
 
       - name: Build downloadable artifacts (epub, docx copy)
         run: script/build_downloads.sh
