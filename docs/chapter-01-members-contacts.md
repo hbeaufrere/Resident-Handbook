@@ -37,13 +37,13 @@ Brian Anton, DVM 2025-2027
 
 ### Registered Veterinary Technicians (RVTs) and other staff:
 
-Andrea Lynch, RVT
+Erin Johnston, RVT, Animal Care Hospital Supervisor
+
+Andrea Lynch, RVT, Lead Animal Health Technician
 
 Lauren Etter, RVT
 
 Selena Mejia, RVT
-
-Erin Johnston, RVT
 
 Valerie Varcados, RVT
 
