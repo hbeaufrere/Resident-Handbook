@@ -68,7 +68,7 @@ c\. Case rounds should be guided based on patient signalment, chief presenting c
 
 7.**Zoological Medicine Journal club** alternates monthly between Tuesdays and Thursdays at 1:00 PM. This journal club is conducted via Zoom and residents on professional development are <u>required to attend</u> and present at least 1 topic/year. Residents on clinics that are not engaged in clinical activities should strive to log on for learning. Reviewing the recorded Zoom meetings should be a priority during PD weeks.
 
-8\. **Micke Grove Zoo/CA Raptor Center Rounds** are held on Fridays from 9-10 AM. House officers on these cases that week are expected to be prepared to present all cases, including pertinent radiological and clinical pathological data for the case. Other house officers and faculty will discuss the case and management to ensure that others rotating on to this service are kept abreast of new changes in cases at these outside institutions.
+8\. **Micke Grove Zoo/CA Raptor Center Rounds** are held on Thursdays from 9-10 AM. House officers on these cases that week are expected to be prepared to present all cases, including pertinent radiological and clinical pathological data for the case. Other house officers and faculty will discuss the case and management to ensure that others rotating on to this service are kept abreast of new changes in cases at these outside institutions.
 
 9\. **Student “White Board” Rounds** are held daily at approximately 4:15-4:30 PM. This is the students’ chance to briefly discuss cases seen or in hospital for the day, learn from fellow student cases, and follow-up with any pertinent questions or tasks regarding the cases. We often ask “what was the most interesting thing you learned from this case?”
 
