@@ -13,9 +13,17 @@ from pathlib import Path
 
 SRC = Path(".tmp/handbook.md")
 OUT = Path("docs")
+KEEP = {"README.md"}  # hand-maintained files that survive a regenerate
 if OUT.exists():
-    # Wipe stale child pages so renames don't leave orphans
-    shutil.rmtree(OUT)
+    # Wipe stale generated pages so renames don't leave orphans,
+    # but keep the editor-facing README.
+    for p in OUT.iterdir():
+        if p.name in KEEP:
+            continue
+        if p.is_dir():
+            shutil.rmtree(p)
+        else:
+            p.unlink()
 OUT.mkdir(exist_ok=True)
 
 text = SRC.read_text()
@@ -202,6 +210,14 @@ def process_chapter(ch):
         "has_toc": True,
     }
     parent_body = f"# {ch['h1']}\n\n"
+    parent_body += (
+        "<!--\n"
+        "  EDITORS: this file is only the chapter heading. The text of each\n"
+        f"  subsection lives in the folder `{ch['folder']}/` next to this file\n"
+        "  (one .md file per numbered subsection). Edit those files, not this one.\n"
+        "  The list of subsections below is generated automatically on the site.\n"
+        "-->\n\n"
+    )
     if intro.strip():
         parent_body += intro + "\n"
     write_md(OUT / ch["file"], parent_front, parent_body)

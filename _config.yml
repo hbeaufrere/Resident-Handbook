@@ -55,6 +55,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - docs/README.md
   - node_modules/
   - script/
 
