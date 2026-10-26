@@ -9,11 +9,13 @@ nav_order: 6
 
 2.  While on professional development, the house officer is expected
 
-    1.  To attend all journal clubs and didactic rounds (Zoo Path, Aquatic Animal Health)
+    1.  To attend Monday’s clinical rounds to transfer in hospital patients
 
-    2.  To attend MGZ/CRC rounds if following week will be on Primary Line
+    2.  To attend all journal clubs and didactic rounds (Zoo Path, Aquatic Animal Health)
 
-    3.  To follow up on all outstanding diagnostics for client owned patients and client follow ups.
+    3.  To attend MGZ/CRC rounds if following week will be on Primary Line
+
+    4.  To follow up on all outstanding diagnostics for client owned patients and client follow ups.
 
 3.  While on professional development, the house officer is excused from
 
